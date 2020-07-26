@@ -89,4 +89,3 @@ public class Epam2 {
 		
 	}
 }
-© 2020 GitHub, Inc.
